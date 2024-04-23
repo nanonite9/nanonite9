@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayana-n" target="blank"><img align="center" alt="ayana n linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayana-n/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 ### Programming Languages

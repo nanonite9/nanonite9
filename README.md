@@ -13,12 +13,6 @@
 
 - ⚡ Fun fact **I model, speak at public events and help host large events like hackathons and sweet sixteens!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ayana-n/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-</p>
-
-
 ### Languages/Frameworks:
 <p align="left"> 
   &emsp; 

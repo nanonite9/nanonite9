@@ -127,7 +127,30 @@
     </a>
   &emsp;
     <a href="#"> 
-      <img alt="SQL Server Management Studio (SSMS)" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio%20-%237A5DB
+      <img alt="SQL Server Management Studio (SSMS)" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio%20-%237A5DB0.svg?logo=microsoft-sql-server&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Elastic Logstash Kibana (ELK)" src="https://img.shields.io/badge/ELK%20-%23424242.svg?logo=elastic-stack&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Grafana" src="https://img.shields.io/badge/Grafana%20-%23F46800.svg?logo=grafana&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Datadog" src="https://img.shields.io/badge/Datadog%20-%2382CAFA.svg?logo=datadog&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Soap" src="https://img.shields.io/badge/Soap%20-%23000000.svg?logo=soap&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Oracle Commerce BCC" src="https://img.shields.io/badge/Oracle%20Commerce%20BCC%20-%23FF0000.svg?logo=oracle&logoColor=white">
+    </a>
+  &emsp;
+</p>
 
 ### Frontend Development
 

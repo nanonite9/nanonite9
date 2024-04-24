@@ -20,10 +20,6 @@
 
 ## Programming Languages
 
-# Hi there! 👋 I'm [Your Name]
-
-## Programming Languages
-
 ### Languages/Frameworks:
 <p align="left"> 
   &emsp; 

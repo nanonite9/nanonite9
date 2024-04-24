@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/ayana-n/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
-## Programming Languages
 
 ### Languages/Frameworks:
 <p align="left"> 
@@ -129,9 +128,8 @@
   &emsp;
 </p>
 
-## Frontend Development
+### Frontend Development
 
-### Technologies & Tools:
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -155,9 +153,8 @@
   </a>
 </p>
 
-## Backend Development
+### Backend Development
 
-### Technologies & Tools:
 <p align="left"> 
   &emsp; 
   <a href="https://nodejs.org/" target="_blank">
@@ -181,9 +178,8 @@
   </a>
 </p>
 
-## Databases & Cloud Hosting
+### Databases & Cloud Hosting
 
-### Technologies & Tools:
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -205,9 +201,8 @@
     </a>
  </p>
 
- ## Software & Tools
+ ### Software & Tools
  
- ### Technologies & Tools:
 <p>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>

@@ -218,7 +218,7 @@
 </p>
 
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank">
@@ -307,3 +307,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
     </a>
 </p>
+-->

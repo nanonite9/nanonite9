@@ -135,6 +135,7 @@
 
 ## Frontend Development
 
+### Technologies & Tools:
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -144,27 +145,49 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://aws.amazon.com/amplify/" target="_blank">
+    <img alt="AWS Amplify" src="https://img.shields.io/badge/AWS%20Amplify%20-%231A73E8.svg?logo=amazon-aws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS%20-%23E23237.svg?logo=angularjs&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?logo=redis&logoColor=white">
+  </a>
 </p>
 
 ## Backend Development
 
+### Technologies & Tools:
 <p align="left"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.w3schools.com/nodejs/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-green">
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.tutorialspoint.com/flask/index.htm" target="_blank">
-    <img alt="Flask" src="https://img.shields.io/badge/-Flask-yellow">
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?logo=flask&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://cassandra.apache.org/" target="_blank">
+    <img alt="Cassandra DB" src="https://img.shields.io/badge/Cassandra%20DB%20-%231287B5.svg?logo=apache-cassandra&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda%20-%23FF9900.svg?logo=amazon-aws&logoColor=white">
   </a>
 </p>
 
 ## Databases & Cloud Hosting
 
+### Technologies & Tools:
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -172,10 +195,23 @@
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+  &emsp;
+    <a href="https://aws.amazon.com/rds/" target="_blank">
+      <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS%20-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+    </a>
+  &emsp;
+    <a href="https://cloud.google.com/sql" target="_blank">
+      <img alt="Google Cloud SQL" src="https://img.shields.io/badge/Google%20Cloud%20SQL%20-%234285F4.svg?logo=google-cloud&logoColor=white">
+    </a>
+  &emsp;
+    <a href="https://redis.io/" target="_blank">
+      <img alt="Redis" src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?logo=redis&logoColor=white">
+    </a>
  </p>
 
  ## Software & Tools
  
+ ### Technologies & Tools:
 <p>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>

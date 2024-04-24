@@ -18,8 +18,43 @@
 <a href="https://www.linkedin.com/in/ayana-n/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
-### Programming Languages
+## Programming Languages
 
+### Languages/Frameworks:
+<p align="left"> 
+  &emsp; 
+  <a href="#"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#"> 
+    <img alt=".NET" src="https://img.shields.io/badge/.NET%20-%23512BD4.svg?logo=.net&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="#"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%230074A5.svg?logo=microsoft-sql-server&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS%20-%23E23237.svg?logo=angularjs&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"> 
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?logo=php&logoColor=white">
+  </a>
+</p>
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -42,6 +77,57 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
 </p>
+
+
+### Tools:
+<p>
+  &emsp;
+    <a href="#"> 
+      <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23232F3E.svg?logo=amazon-aws&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Azure Kubernetes Service (AKS)" src="https://img.shields.io/badge/AKS%20-%230078D4.svg?logo=azure-kubernetes-service&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Azure Portal" src="https://img.shields.io/badge/Azure%20Portal%20-%230072C6.svg?logo=microsoft-azure&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FF6C37.svg?logo=postman&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI%20-%23F2C811.svg?logo=powerbi&logoColor=black">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Dynatrace (DT)" src="https://img.shields.io/badge/Dynatrace%20DT%20-%23008000.svg?logo=dynatrace&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="JIRA" src="https://img.shields.io/badge/JIRA%20-%230052CC.svg?logo=jira-software&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="Oracle SQL Developer" src="https://img.shields.io/badge/Oracle%20SQL%20Developer%20-%23F80000.svg?logo=oracle&logoColor=white">
+    </a>
+  &emsp;
+    <a href="#"> 
+      <img alt="SQL Server Management Studio (SSMS)" src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio%20-%237A5DB
 
 ### Frontend Development
 

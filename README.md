@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source or any fun projects**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/nanonite9](https://github.com/nanonite9)
+- 👨‍💻 Most of my projects are available at [my repos]([https://github.com/nanonite9?tab=repositories]))
 
 - 💬 Ask me about **software engineering, I learn a lot from questions**
 
